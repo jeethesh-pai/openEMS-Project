@@ -9,7 +9,7 @@
 	url = https://github.com/thliebig/AppCSXCAD.git
 [submodule "openEMS"]
 	path = openEMS
-	url = https://github.com/thliebig/openEMS.git
+	url = https://github.com/BlitPlatform/openems.git
 [submodule "fparser"]
 	path = fparser
 	url = https://github.com/thliebig/fparser.git
